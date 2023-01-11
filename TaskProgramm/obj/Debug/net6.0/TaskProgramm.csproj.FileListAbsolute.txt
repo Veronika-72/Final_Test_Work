@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\bin\Debug\net6.0\TaskProgramm.exe
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\bin\Debug\net6.0\TaskProgramm.deps.json
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\bin\Debug\net6.0\TaskProgramm.runtimeconfig.json
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\bin\Debug\net6.0\TaskProgramm.dll
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\bin\Debug\net6.0\TaskProgramm.pdb
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.AssemblyInfo.cs
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.dll
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\refint\TaskProgramm.dll
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.pdb
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\TaskProgramm.genruntimeconfig.cache
+C:\Users\HP\Desktop\FinalTestWork\TaskProgramm\obj\Debug\net6.0\ref\TaskProgramm.dll
